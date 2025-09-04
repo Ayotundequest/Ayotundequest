@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Quadri Akinjole 👋  
 
-<!--
-**Ayotundequest/Ayotundequest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Junior Software Developer** with experience in **front-end development (React, Vite, Java)** and a background in **telecom engineering (MikroTik, PPPoE, broadband troubleshooting)**.  
 
-Here are some ideas to get you started:
+🎓 Currently pursuing an **MSc in Communication & Information Engineering (Extended Professional Practice)** at the **University of Hertfordshire**.  
+💼 Previously worked as a **Front-End Developer** at a startup and as an **IP Engineer Intern** at a broadband company.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills  
+- **Languages & Frameworks:** Java, React, Vite, JavaScript, HTML, CSS  
+- **Tools & Platforms:** Git, GitHub, VS Code, Node.js  
+- **Networking & IT:** Cisco, MikroTik, PPPoE, IP addressing, troubleshooting and Network Solution  
+
+
+## 📫 Connect With Me  
+- [LinkedIn](https://linkedin.com/in/quadri-akinjole-a31519238)  
+- [Portfolio Website](#)  
+- [Email](mailto:akinjolequadri@gmail.com)  
+
+---
+⭐️ *Always open to collaboration and new opportunities in the tech space.*
