@@ -1,5 +1,3 @@
-## Hi, I’m Quadri 👋
-
 I’m an infrastructure & reliability-focused software engineer with a background in
 communications and core network operations.
 
